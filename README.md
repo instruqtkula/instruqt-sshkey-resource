@@ -1,4 +1,4 @@
-# instruqt-sshkey-resource
+# terraform-instruqt-sshkey
 
 A wrapper module to generate an SSH key and export the public
 and private parts, for use in an Instruqt
